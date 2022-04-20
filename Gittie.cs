@@ -4,7 +4,7 @@ public class Gittie
 {
     public void Introduce()
     {
-        Console.WriteLine("Hello, I'm Gittie!");
+        Console.WriteLine("Hello, I'm not Gittie!");
     }
     public void Joke()
     {
