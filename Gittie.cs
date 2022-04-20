@@ -11,4 +11,9 @@ public class Gittie
         Console.WriteLine("Funny joke here");
     }
     public void Add(int a, int b);
+
+    public void Shout()
+    {
+        Console.WriteLine("Alelelele");
+    }
 }
